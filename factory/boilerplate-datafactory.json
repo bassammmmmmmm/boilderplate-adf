@@ -1,0 +1,9 @@
+{
+	"name": "boilerplate-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "110c78eb-f98e-4290-8752-feea141ecf71",
+		"tenantId": "75ed0cd0-8fa7-4baa-b72e-4c44578339e9"
+	}
+}
