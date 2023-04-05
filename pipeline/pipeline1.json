@@ -1,6 +1,20 @@
 {
 	"name": "pipeline1",
 	"properties": {
+		"parameters": {
+			"JobID": {
+				"type": "string",
+				"defaultValue": "724363997708119"
+			},
+			"DatabricksWorkspaceID": {
+				"type": "string",
+				"defaultValue": "adb-7947983487838944.4"
+			},
+			"WaitSeconds": {
+				"type": "int",
+				"defaultValue": 30
+			}
+		},
 		"annotations": []
 	}
 }
